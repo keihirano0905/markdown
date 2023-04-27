@@ -2,10 +2,11 @@
 
 ##プロフィール
 **氏名**｜彼女募集中
+![img jp](https://user-images.githubusercontent.com/131778860/234750136-43cc1314-0345-41ce-b391-89a5b7ea54e7.jpg)
 ##　成績
 |氏名|告白回数|成功回数|失敗回数|
 |--|--|--|--|
 |のぶ|8|0|8|
 |けい|2|0|2|
-![img](https://user-images.githubusercontent.com/131778860/234749151-a56feaff-785c-4623-98df-87794b5dba3b.jpg)
+
 
